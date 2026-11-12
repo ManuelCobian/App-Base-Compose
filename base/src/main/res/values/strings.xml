@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotlinEcommerce</string>
+    <string name="title_label">Ingresar</string>
+    <string name="email_label">Correo Electronico</string>
+    <string name="contrasena_label">Contraseña</string>">
+    <string name="login_button">Ingresar</string>
+    <string name="unknown_host_exception_error">Exito</string>
+    <string name="unknown_exception_error">Error intente mas tarde</string>
+</resources>

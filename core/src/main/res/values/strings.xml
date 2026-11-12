@@ -1,0 +1,4 @@
+<resources>
+    <string name="unknown_host_exception_error">Exito</string>
+    <string name="unknown_exception_error">Error intente mas tarde</string>
+</resources>
